@@ -1,1 +1,1 @@
-My name is Jeremy Scott
+My name is Jeremy Scott and I am doing mini project 3
